@@ -36,7 +36,7 @@
 ## 📊 Assignment Overview
 
 | Question | Topic | File | 
-|---|---|---|---|
+|---|---|---|
 | Q1 | Supervised Learning — Heart Disease Classification | `q1_supervised.ipynb` | 
 | Q2 | Unsupervised Learning — Customer Segmentation (K-Means + PCA) | `q2_unsupervised.ipynb` | 
 | Q3 | Feature Engineering & Regression Pipeline | `q3_feature_engineering.ipynb` | 
