@@ -35,12 +35,12 @@
 
 ## 📊 Assignment Overview
 
-| Question | Topic | File | 
-|---|---|---|
-| Q1 | Supervised Learning — Heart Disease Classification | `q1_supervised.ipynb` | 
-| Q2 | Unsupervised Learning — Customer Segmentation (K-Means + PCA) | `q2_unsupervised.ipynb` | 
-| Q3 | Feature Engineering & Regression Pipeline | `q3_feature_engineering.ipynb` | 
-| Part B | Business Case Analysis — Promotion Effectiveness | `part_b/business_analysis.md` | 
+| Part | Question | Topic | File | 
+|---|---|---|---|
+| **Part A** | Q1 | Supervised Learning — Heart Disease Classification | `part_a/q1_supervised.ipynb` | 
+| **Part A** | Q2 | Unsupervised Learning — Customer Segmentation (K-Means + PCA) | `part_a/q2_unsupervised.ipynb` | 
+| **Part A** | Q3 | Feature Engineering & Regression Pipeline | `part_a/q3_feature_engineering.ipynb` | 
+| **Part B** | — | Business Case Analysis — Promotion Effectiveness | `part_b/business_analysis.md` | 
 
 ---
 
