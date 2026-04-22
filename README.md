@@ -20,14 +20,15 @@
 │   ├── q2_customers.csv              # Customer segmentation dataset (500 rows, 6 cols)
 │   └── q3_retail_promotions.csv      # Retail promotions regression dataset (1200 rows, 9 cols)
 │
-├── q1_supervised.ipynb               # Q1: Supervised Learning — Classification 
-├── q2_unsupervised.ipynb             # Q2: Unsupervised Learning — K-Means + PCA 
-├── q3_feature_engineering.ipynb      # Q3: Feature Engineering + Regression Pipeline 
+├── part_a/
+│   ├── q1_supervised.ipynb           # Q1: Supervised Learning — Classification 
+│   ├── q2_unsupervised.ipynb         # Q2: Unsupervised Learning — K-Means + PCA 
+│   └── q3_feature_engineering.ipynb  # Q3: Feature Engineering + Regression Pipeline 
 │
 ├── part_b/
-│   └── business_analysis.md          # Part B: Business Case Analysis
+│   └── business_analysis.md          # Part B: Business Case Analysis 
 │
-└── README.md                         
+└── README.md                         # This file — project overview and documentation                        
 ```
 
 ---
